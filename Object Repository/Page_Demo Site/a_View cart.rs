@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View cart</name>
+   <tag></tag>
+   <elementGuidId>aaa47e3b-c8fe-4095-968d-f2a636afc73e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loop-container']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.wc-forward.wp-element-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6da37c70-087a-4c33-8501-f7a1b2bcaef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://modern-store.competethemes.com/cart/</value>
+      <webElementGuid>1b0e4c13-a691-4604-a778-ac0413c670ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>165fb08d-f1d2-4c1a-88cf-276b3672f1ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button wc-forward wp-element-button</value>
+      <webElementGuid>9bc859e0-a370-4e12-8edc-05b94ed12cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View cart</value>
+      <webElementGuid>319d63b1-bec8-4830-9c7d-d58836159ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loop-container&quot;)/div[@class=&quot;woocommerce-notices-wrapper&quot;]/div[@class=&quot;woocommerce-message&quot;]/a[@class=&quot;button wc-forward wp-element-button&quot;]</value>
+      <webElementGuid>6e005150-edf6-4859-9144-535358011bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Demo Site/iframe_Purchase_iframe</value>
+      <webElementGuid>1eb3ce68-168e-423f-a8e4-6d92ec629651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loop-container']/div/div/a</value>
+      <webElementGuid>24f7089d-7fed-46d0-98fe-78ea4f21c649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View cart')]</value>
+      <webElementGuid>69640618-2350-4962-9706-075bb192f453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[3]/following::a[1]</value>
+      <webElementGuid>4185d208-594b-4b36-9e08-7c481aeacc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denim Summer Dress'])[1]/preceding::a[3]</value>
+      <webElementGuid>05848958-d7a6-4aad-a12d-091ed2ddcce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[1]/preceding::a[3]</value>
+      <webElementGuid>8de579d4-9543-4f95-aeb1-f72e79c8badf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View cart']/parent::*</value>
+      <webElementGuid>e51ee37f-8317-401e-b78e-d72bb114c5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://modern-store.competethemes.com/cart/')])[2]</value>
+      <webElementGuid>bf119cf2-797f-4e03-a5fd-09eeeecaa8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/a</value>
+      <webElementGuid>5be3dc98-6e1c-4793-95b0-75c53034a509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://modern-store.competethemes.com/cart/' and (text() = 'View cart' or . = 'View cart')]</value>
+      <webElementGuid>30638b88-43ee-428a-ab8e-48c2e9c5776e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1396af6-f419-41f4-9d07-9f25d1449f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Hoodie'])[1]/preceding::a[4]</value>
+      <webElementGuid>773be798-aca3-4df3-91ec-d20dbf758ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

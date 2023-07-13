@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_79.00</name>
+   <tag></tag>
+   <elementGuidId>9ffd5e37-a4eb-42ae-8b00-fedaeb01c992</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loop-container']/div/article/div[2]/div/form/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.product-price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>22693719-7aab-449e-9455-c71d66be84e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-price</value>
+      <webElementGuid>9dd7d0d8-59fc-4185-8262-1378c61861ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title</name>
+      <type>Main</type>
+      <value>Price</value>
+      <webElementGuid>96f2b43c-89fd-4c07-923e-8b7c61c5240c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							$79.00						</value>
+      <webElementGuid>78a9fa55-c3cc-42a8-897f-9444e7fe71a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loop-container&quot;)/div[@class=&quot;post-204 page type-page status-publish hentry entry&quot;]/article[1]/div[@class=&quot;post-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;woocommerce-cart-form&quot;]/table[@class=&quot;shop_table shop_table_responsive cart woocommerce-cart-form__contents&quot;]/tbody[1]/tr[@class=&quot;woocommerce-cart-form__cart-item cart_item&quot;]/td[@class=&quot;product-price&quot;]</value>
+      <webElementGuid>64a2c9a7-7b93-4510-b764-d4d217f58d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Demo Site/iframe_Purchase_iframe</value>
+      <webElementGuid>0045832f-f8fa-4acd-92bc-57f33985a652</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loop-container']/div/article/div[2]/div/form/table/tbody/tr/td[4]</value>
+      <webElementGuid>1e810873-fa84-4563-bfac-4d382cda2bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denim Summer Dress'])[1]/following::td[1]</value>
+      <webElementGuid>b7556dfa-74d6-41fa-be7d-6a959f8ebca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::td[3]</value>
+      <webElementGuid>a3ca4871-9e51-4120-a667-e8782619d8ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Denim Summer Dress quantity'])[1]/preceding::td[1]</value>
+      <webElementGuid>99c2257a-8dc8-4db3-ad2f-4e9326d0732d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>a79cbb46-2fbe-44a6-ab6e-8e8432e9b2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+							$79.00						' or . = '
+							$79.00						')]</value>
+      <webElementGuid>69fdd781-912b-4f7f-9f05-c8b4e7a5381d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

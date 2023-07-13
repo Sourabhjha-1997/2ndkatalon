@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open New Account</name>
+   <tag></tag>
+   <elementGuidId>f037ff0d-894d-4c81-a840-6f262465b0fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#leftPanel > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftPanel']/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ace6a5a2-06dd-4840-976a-2a08181750cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/parabank/openaccount.htm</value>
+      <webElementGuid>aa3327d7-6063-4d08-8f2b-c5602620f09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open New Account</value>
+      <webElementGuid>5aa6984d-9b75-48cf-aa83-83073e7c0098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftPanel&quot;)/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>dd2e99bb-ae35-4759-8c10-6e28a08ccb88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftPanel']/ul/li/a</value>
+      <webElementGuid>eb01c04c-4669-4b2a-b3e5-8fa6ede1abc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open New Account')]</value>
+      <webElementGuid>98bcca46-6110-4ea5-b444-7ff8ffea9f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Services'])[1]/following::a[1]</value>
+      <webElementGuid>b09476ed-15bf-405d-bfcb-5fae7f8607e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome'])[1]/following::a[1]</value>
+      <webElementGuid>29e88c45-2ef1-44ef-b8ac-8d25460fb325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Overview'])[1]/preceding::a[1]</value>
+      <webElementGuid>e48a6cca-0b44-45dc-9ce4-4c9b60749f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Funds'])[1]/preceding::a[2]</value>
+      <webElementGuid>7ae048ce-bdb9-4327-af6f-4c72be2344db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open New Account']/parent::*</value>
+      <webElementGuid>ab5b15ab-cbba-49d5-9242-5317eab07fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/parabank/openaccount.htm')]</value>
+      <webElementGuid>2c17873d-8dfe-4e8b-9e87-496910f51455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li/a</value>
+      <webElementGuid>3c1553b2-09ce-4c6f-94dd-aba6b7353b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/parabank/openaccount.htm' and (text() = 'Open New Account' or . = 'Open New Account')]</value>
+      <webElementGuid>109a6eef-27cc-40f6-b8bf-67482de5c91a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

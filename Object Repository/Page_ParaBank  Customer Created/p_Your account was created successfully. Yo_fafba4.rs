@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your account was created successfully. Yo_fafba4</name>
+   <tag></tag>
+   <elementGuidId>a249d771-7b40-406e-b409-1c7ec3bd91cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rightPanel > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rightPanel']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d8fc7e4e-a0ca-4d6e-a71f-bfcd82535b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your account was created successfully. You are now logged in.</value>
+      <webElementGuid>f84f4335-8df2-497c-a3fe-0562c246ec08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightPanel&quot;)/p[1]</value>
+      <webElementGuid>b27cb599-9ee5-4b40-9170-7fa1d571d7bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rightPanel']/p</value>
+      <webElementGuid>6059641c-faa3-467d-ae7c-6f64c51b8055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::p[1]</value>
+      <webElementGuid>d6e351c1-1893-4ce3-b5cd-86dda8e5b1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::p[1]</value>
+      <webElementGuid>a3683636-c678-4a54-9dc3-c26799c96a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your account was created successfully. You are now logged in.']/parent::*</value>
+      <webElementGuid>a79ce0ad-3c87-4338-95f7-120759dcb103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>eeb08cc8-2b0d-4993-9f14-cc16e75a6a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Your account was created successfully. You are now logged in.' or . = 'Your account was created successfully. You are now logged in.')]</value>
+      <webElementGuid>101ca5cd-342b-4032-8334-44bc6f292230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

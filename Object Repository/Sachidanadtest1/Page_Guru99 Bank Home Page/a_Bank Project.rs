@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bank Project</name>
+   <tag></tag>
+   <elementGuidId>6f973888-3762-4b8f-a850-65f260ccc118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-brand-centered']/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab911ec4-9db4-4fae-991e-89f8c2325016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://demo.guru99.com/V1/index.php</value>
+      <webElementGuid>75b0d964-7746-4543-bd8e-c4c87aedcbe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Project</value>
+      <webElementGuid>97d1fc3c-7bc9-4755-b6dd-8d1bacac948f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-brand-centered&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown&quot;]/a[1]</value>
+      <webElementGuid>3babf591-22ed-4cb8-8aa1-94911aa3e5bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-brand-centered']/ul/li[5]/a</value>
+      <webElementGuid>c7062fd1-8e8d-421d-a84d-9e7070386670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bank Project')]</value>
+      <webElementGuid>9af65b1c-b354-4447-9e0b-9167bf5a6e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agile Project'])[1]/following::a[1]</value>
+      <webElementGuid>9da3dd46-d855-4ad4-8548-787180abb5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance Project'])[1]/following::a[2]</value>
+      <webElementGuid>063df8cb-03ff-4e25-ac9b-d08584bd275d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Project'])[1]/preceding::a[1]</value>
+      <webElementGuid>bf433338-ff15-430a-ae73-ca026e587e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telecom Project'])[1]/preceding::a[2]</value>
+      <webElementGuid>e2fdf6f5-0f64-431e-bdb8-f5bc48370bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bank Project']/parent::*</value>
+      <webElementGuid>e45a4542-760c-4e73-ac50-6230d8d02c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://demo.guru99.com/V1/index.php']</value>
+      <webElementGuid>652455d5-1d4c-4969-977b-f05b1d074bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>e95a4bd8-89c7-4395-b6b5-83c0d2d576ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://demo.guru99.com/V1/index.php' and (text() = 'Bank Project' or . = 'Bank Project')]</value>
+      <webElementGuid>af2e4cf9-a2a3-4b68-9710-e9dd8b640b19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>7ba5e48f-bac0-4b6b-9c84-2787ba0f97cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c22d43d1-5e9e-4091-aa4c-eabe759c6068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 48 48</value>
+      <webElementGuid>5b4461b6-01a5-4043-81c7-bd7a4f2eb7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#5F6368</value>
+      <webElementGuid>273e265c-96d0-4cfc-b1ff-c2c43e671065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dismiss-button&quot;)/div[1]/svg[1]</value>
+      <webElementGuid>68e12865-0b1e-484f-ad86-cf27aecbcf72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Sachidanadtest1/Page_Guru99 Bank Home Page/iframe_concat(id(, , google_ads_iframe_24132379INTERSTITIAL_DemoGuru99_0, , ))_google_ads_iframe_24132379INTERSTITIAL_DemoGuru99_0</value>
+      <webElementGuid>5330710e-4a42-43b6-bbc7-83b9d36d70ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>09a08075-9079-40ca-9070-dcbd51ea466e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'dismiss-button', '&quot;', ')/div[1]/svg[1]')])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>086d8c00-f8b5-42fd-8a50-509130063375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

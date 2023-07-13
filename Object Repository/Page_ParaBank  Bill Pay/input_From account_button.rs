@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_From account_button</name>
+   <tag></tag>
+   <elementGuidId>8e905b85-d037-4706-b78c-68ecc4ef965e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Send Payment']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2d2ac252-3f64-4f5e-af58-ff2443ba78e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>5257b28e-2c3d-48c1-9981-99034be8353d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>75e281ee-fe2f-4ca5-a990-a99721c512b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Send Payment</value>
+      <webElementGuid>ae3998f4-5e64-45ca-9bf4-48c44c34b25f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightPanel&quot;)/div[@class=&quot;ng-scope&quot;]/div[1]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/table[@class=&quot;form2&quot;]/tbody[1]/tr[14]/td[2]/input[@class=&quot;button&quot;]</value>
+      <webElementGuid>d07e9f49-d94b-4096-a634-8c0ae3b218c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Send Payment']</value>
+      <webElementGuid>71ccd581-1223-44d1-8927-c63c62cc25cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rightPanel']/div/div/form/table/tbody/tr[14]/td[2]/input</value>
+      <webElementGuid>0d9d6368-7eb8-47d9-8c79-240647a3fb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td[2]/input</value>
+      <webElementGuid>16c2bd18-3148-4f1c-be5e-729d1d1043e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>76513312-fb77-4f4c-82f0-34c6c7ca6e26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
