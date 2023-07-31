@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Confirm text is readonly_dontwrite</name>
    <tag></tag>
-   <elementGuidId>c7573cb6-4bad-454c-b480-233bdeeb2345</elementGuidId>
+   <elementGuidId>b443c88b-5244-4df2-9073-265d375c75e4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>#dontwrite</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@id='dontwrite']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9771369-5e91-4ffb-a326-5eb6ca054f26</webElementGuid>
+      <webElementGuid>e82856f0-69de-4892-ae5c-1843bc9a0ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dontwrite</value>
+      <webElementGuid>b34e9e8d-e924-460e-9d9b-a834c884f636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>15404089-58fd-401a-b01c-812257642325</webElementGuid>
+      <value>text</value>
+      <webElementGuid>19cc613e-0ddc-4c51-8d1d-d6b1dbdc868a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>This text is readonly</value>
+      <webElementGuid>bd636a33-f183-47e1-b369-087003e3743a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,54 +54,38 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0ae14b31-f554-421e-a7ec-61a0ec330222</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>bde14e71-db44-4725-ae73-023a3aa0b10e</webElementGuid>
+      <webElementGuid>bf37600b-9f1f-4017-808c-ee93c463590f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginPanel&quot;)/form[1]/div[@class=&quot;login&quot;]/input[@class=&quot;input&quot;]</value>
-      <webElementGuid>e4876475-3d4c-4f53-b87d-7524991bffba</webElementGuid>
+      <value>id(&quot;dontwrite&quot;)</value>
+      <webElementGuid>019bacc8-239a-47cc-801c-5f668b04c02b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>040c930b-a2af-4fdd-9139-20a7fc4393bf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='loginPanel']/form/div[2]/input</value>
-      <webElementGuid>81294056-63c0-44ae-82f9-5a708bc49ae8</webElementGuid>
+      <value>//input[@id='dontwrite']</value>
+      <webElementGuid>1ad57690-a00a-4202-84ea-3fbe76c27b00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>ddb189dd-3644-414e-9090-603617fda95e</webElementGuid>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>fe55c14d-b3e2-4c99-984e-58b1152e8ed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>6988887a-8d37-4d73-8331-3b560185e367</webElementGuid>
+      <value>//input[@id = 'dontwrite' and @type = 'text']</value>
+      <webElementGuid>6ba3af1a-f1f5-4378-a4f8-161433d32276</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

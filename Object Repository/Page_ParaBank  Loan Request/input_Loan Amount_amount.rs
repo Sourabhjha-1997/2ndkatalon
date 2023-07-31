@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Loan Amount_amount</name>
    <tag></tag>
-   <elementGuidId>c7573cb6-4bad-454c-b480-233bdeeb2345</elementGuidId>
+   <elementGuidId>746d0bf4-5d23-4eb3-9e82-a12c1ee3a2e8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>#amount</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@id='amount']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9771369-5e91-4ffb-a326-5eb6ca054f26</webElementGuid>
+      <webElementGuid>780173de-20c5-4783-89c5-6bf063803a67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>15404089-58fd-401a-b01c-812257642325</webElementGuid>
+      <value>amount</value>
+      <webElementGuid>f4ddf458-c5ef-4b58-884b-8cf951abb121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>0ae14b31-f554-421e-a7ec-61a0ec330222</webElementGuid>
+      <value>input ng-pristine ng-untouched ng-valid ng-empty</value>
+      <webElementGuid>8356555e-54be-4673-adf6-3c054e5fa711</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>ng-model</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>bde14e71-db44-4725-ae73-023a3aa0b10e</webElementGuid>
+      <value>loanRequest.amount</value>
+      <webElementGuid>2bdd23a5-9f27-4b73-a538-ebe8f72b6b8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginPanel&quot;)/form[1]/div[@class=&quot;login&quot;]/input[@class=&quot;input&quot;]</value>
-      <webElementGuid>e4876475-3d4c-4f53-b87d-7524991bffba</webElementGuid>
+      <value>id(&quot;amount&quot;)</value>
+      <webElementGuid>cccc9b47-b47e-4105-b1f2-a700bb072584</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>040c930b-a2af-4fdd-9139-20a7fc4393bf</webElementGuid>
+      <value>//input[@id='amount']</value>
+      <webElementGuid>3d791b7f-8bed-4ab2-ac59-1b6dbe7fe166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='loginPanel']/form/div[2]/input</value>
-      <webElementGuid>81294056-63c0-44ae-82f9-5a708bc49ae8</webElementGuid>
+      <value>//div[@id='rightPanel']/div/div/form/table/tbody/tr/td[2]/input</value>
+      <webElementGuid>50e65124-c653-42a5-8340-befa41233ffe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>ddb189dd-3644-414e-9090-603617fda95e</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>34e9512d-3817-46bb-8e18-c25266d09e6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>6988887a-8d37-4d73-8331-3b560185e367</webElementGuid>
+      <value>//input[@id = 'amount']</value>
+      <webElementGuid>439343cf-8c6a-4203-98df-49a5269d67f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

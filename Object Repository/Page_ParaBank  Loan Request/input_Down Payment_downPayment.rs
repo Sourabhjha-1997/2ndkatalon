@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Down Payment_downPayment</name>
    <tag></tag>
-   <elementGuidId>c7573cb6-4bad-454c-b480-233bdeeb2345</elementGuidId>
+   <elementGuidId>0d5437e7-deba-4129-92e3-91f87ec374be</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>#downPayment</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@id='downPayment']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9771369-5e91-4ffb-a326-5eb6ca054f26</webElementGuid>
+      <webElementGuid>062e9256-35c9-403f-b8e6-e75d0953835c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>15404089-58fd-401a-b01c-812257642325</webElementGuid>
+      <value>downPayment</value>
+      <webElementGuid>d408295a-77a1-489f-8138-0bd883d8859a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>0ae14b31-f554-421e-a7ec-61a0ec330222</webElementGuid>
+      <value>input ng-pristine ng-untouched ng-valid ng-empty</value>
+      <webElementGuid>29965733-f764-484a-b471-9f45455dc409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>ng-model</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>bde14e71-db44-4725-ae73-023a3aa0b10e</webElementGuid>
+      <value>loanRequest.downPayment</value>
+      <webElementGuid>30755258-20dc-4e02-a9c8-fdb577bf3045</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginPanel&quot;)/form[1]/div[@class=&quot;login&quot;]/input[@class=&quot;input&quot;]</value>
-      <webElementGuid>e4876475-3d4c-4f53-b87d-7524991bffba</webElementGuid>
+      <value>id(&quot;downPayment&quot;)</value>
+      <webElementGuid>1549d4b3-57b5-4aa5-9ec2-2e24d0453e74</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>040c930b-a2af-4fdd-9139-20a7fc4393bf</webElementGuid>
+      <value>//input[@id='downPayment']</value>
+      <webElementGuid>6a311893-0a97-4ce9-9345-731e082d6177</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='loginPanel']/form/div[2]/input</value>
-      <webElementGuid>81294056-63c0-44ae-82f9-5a708bc49ae8</webElementGuid>
+      <value>//div[@id='rightPanel']/div/div/form/table/tbody/tr[2]/td[2]/input</value>
+      <webElementGuid>64c6f78e-1ae7-4497-9ea8-1b7bce46ef1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>ddb189dd-3644-414e-9090-603617fda95e</webElementGuid>
+      <value>//tr[2]/td[2]/input</value>
+      <webElementGuid>5641ad5b-ab00-44e2-a160-73fad698b00e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>6988887a-8d37-4d73-8331-3b560185e367</webElementGuid>
+      <value>//input[@id = 'downPayment']</value>
+      <webElementGuid>91263543-1f46-4222-aa82-058266a24aee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_What is inside the text box_getMe</name>
    <tag></tag>
-   <elementGuidId>c7573cb6-4bad-454c-b480-233bdeeb2345</elementGuidId>
+   <elementGuidId>c6263fc2-49e2-418e-8a98-37934bfc241b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>#getMe</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@id='getMe']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9771369-5e91-4ffb-a326-5eb6ca054f26</webElementGuid>
+      <webElementGuid>d19b30f3-c1be-4da3-bc95-20fdcc7b8cce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>getMe</value>
+      <webElementGuid>189bd97d-5657-4bd3-9b1c-9db583a58708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ortonikc</value>
+      <webElementGuid>14cd03a5-3518-4058-988b-8c0e362c7406</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>15404089-58fd-401a-b01c-812257642325</webElementGuid>
+      <value>text</value>
+      <webElementGuid>dd14c405-ec76-435f-b795-264aac3a94d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter </value>
+      <webElementGuid>dc15cc5c-4b42-46d7-89a6-886bf4ceeecd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,54 +62,38 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0ae14b31-f554-421e-a7ec-61a0ec330222</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>bde14e71-db44-4725-ae73-023a3aa0b10e</webElementGuid>
+      <webElementGuid>ac35656a-ce8c-403a-b095-79839cf93342</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginPanel&quot;)/form[1]/div[@class=&quot;login&quot;]/input[@class=&quot;input&quot;]</value>
-      <webElementGuid>e4876475-3d4c-4f53-b87d-7524991bffba</webElementGuid>
+      <value>id(&quot;getMe&quot;)</value>
+      <webElementGuid>3b104cb4-5d03-4418-bdf9-a83e411679fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>040c930b-a2af-4fdd-9139-20a7fc4393bf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='loginPanel']/form/div[2]/input</value>
-      <webElementGuid>81294056-63c0-44ae-82f9-5a708bc49ae8</webElementGuid>
+      <value>//input[@id='getMe']</value>
+      <webElementGuid>d85d5f8b-e919-475a-a559-0f1745f1d3dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>ddb189dd-3644-414e-9090-603617fda95e</webElementGuid>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>c9bbcdd5-ed5a-4690-8003-cad827bbb524</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>6988887a-8d37-4d73-8331-3b560185e367</webElementGuid>
+      <value>//input[@id = 'getMe' and @type = 'text' and @placeholder = 'Enter ']</value>
+      <webElementGuid>dd5ac44a-eec6-41e9-86c0-a1493a58fe95</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

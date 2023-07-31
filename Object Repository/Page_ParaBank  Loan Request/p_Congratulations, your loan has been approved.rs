@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Congratulations, your loan has been approved</name>
+   <tag></tag>
+   <elementGuidId>dfe3f9c1-6fc9-4247-a475-b42b8e63fdef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-scope > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rightPanel']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>22a4289f-3450-4ccf-a32d-7aa5bf7b0f9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Congratulations, your loan has been approved.</value>
+      <webElementGuid>bd935869-dcba-4e38-bf8b-a4ad36d5c71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightPanel&quot;)/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/p[1]</value>
+      <webElementGuid>d7235fd1-b291-4f73-a3e8-2df8afc6e8db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rightPanel']/div/div/div/p</value>
+      <webElementGuid>97ee1c2d-8a10-43d1-a5df-ab7d141bea21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[1]/following::p[1]</value>
+      <webElementGuid>4d352e1f-722f-49bf-9991-2561ee16cafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status:'])[1]/following::p[1]</value>
+      <webElementGuid>c8a5a29e-cd2c-4cf4-9608-a40044650dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your new account number:'])[1]/preceding::p[1]</value>
+      <webElementGuid>4081dea5-d4f8-44db-94ab-152078932f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Congratulations, your loan has been approved.']/parent::*</value>
+      <webElementGuid>a3f597e5-f7a1-4199-9a12-59d45ffc1c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>0b2ed795-0dbb-49d3-807c-f1e9eae0a0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Congratulations, your loan has been approved.' or . = 'Congratulations, your loan has been approved.')]</value>
+      <webElementGuid>1bba2d5a-8813-4afe-922b-430e62cb6248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
